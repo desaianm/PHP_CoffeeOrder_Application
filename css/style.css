@@ -1,0 +1,76 @@
+/*
+Anmol Desai
+Student ID:991515637
+SYST10199 - Web Programming
+*/
+/* 
+    Created on : Mar. 16, 2019, 2:25:12 p.m.
+    Author     : adcan
+*/
+body{
+    background-color: #ff3333;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    font-size: 250%;
+    background-position: center;
+       
+}
+#data{
+    float:left;
+    width:15em;
+    margin-bottom:.5em;
+
+}
+#content{
+    
+    width:450px;
+    height:250px;
+    color: aqua;
+    margin-left: 370px;
+    margin-right: 250px;
+    padding:0px 20px 20px;
+    border:2px solid red;
+    background-color: #990000;
+    
+}
+
+#buttons 
+{
+    float:left;                     
+    margin-top: 7px;
+    margin-left: 150px;
+}
+#con{
+    
+    width:600px;
+    height:550px;
+    color:#F85531 ;
+    font-size: 150%;
+    margin-left: 370px;
+    margin-right: 250px;
+    padding:0px 20px 20px;
+    border:2px solid blue;
+    background-color: #990000;
+    
+}
+#footer{
+    
+   text-align: center;
+   background-position: center;
+   background-image: url("images/logo-en.jpg");
+}
+#error{
+    
+    color: aliceblue;
+    font-size: 150%;
+    
+}
+
+
+
+
